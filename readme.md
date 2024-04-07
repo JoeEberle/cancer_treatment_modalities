@@ -1,5 +1,5 @@
 
-# Cancer Treatment Modalities - Analysis of major treatment modalities and the cancers (tumors type) they treat
+# Cancer Treatment Modalities - Analysis of major treatment modalities and the cancers (tumor types) they treat
 
 ![Code Logo](code.png)
 ## Description
