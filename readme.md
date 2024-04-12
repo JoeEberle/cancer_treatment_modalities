@@ -4,18 +4,18 @@
 ![Code Logo](code.png)
 ## Description
 
-Welcome to the solution Cancer Treatment Modalities - an example for your projects
+Welcome to the solution **Cancer Treatment Modalities**   
 
-Analysis of major treatment modalities and the cancers (tumors type) they treat
+## Analysis of major treatment modalities and the cancers (tumors type) they treat
 
 ## Modalities in cancer treatment
-- Surgery - Surgical removal of cancerous tumors or tissues.
-- Chemotherapy - Treatment using drugs to kill cancer cells or slow their growth.
-- Radiation Therapy - Treatment using high-energy rays or particles to destroy cancer cells.
-- Immunotherapy - Treatment that uses the body's immune system to fight cancer.
-- Adjuvant Chemotherapy - Chemotherapy given after surgery to kill any remaining cancer cells.
-- Targeted Therapy - Treatment that targets specific genes, proteins, or pathways involved in cancer growth.
-- Hormone Therapy - Treatment that blocks the effects of hormones or stops the body from making them.
+- **Surgery** - Surgical removal of cancerous tumors or tissues.
+- **Chemotherapy** - Treatment using drugs to kill cancer cells or slow their growth.
+- **Radiation Therapy** - Treatment using high-energy rays or particles to destroy cancer cells.
+- **Immunotherapy** - Treatment that uses the body's immune system to fight cancer.
+- **Adjuvant Chemotherapy** - Chemotherapy given after surgery to kill any remaining cancer cells.
+- **Targeted Therapy** - Treatment that targets specific genes, proteins, or pathways involved in cancer growth.
+- **Hormone Therapy** - Treatment that blocks the effects of hormones or stops the body from making them.
 
 ![Code Sample](sample.png)
 
