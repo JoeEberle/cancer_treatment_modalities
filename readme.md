@@ -10,7 +10,7 @@ Analysis of major treatment modalities and the cancers (tumors type) they treat
 
 ![Image image_filename](sample.png)
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
