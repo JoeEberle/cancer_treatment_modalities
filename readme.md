@@ -38,4 +38,4 @@ To get started with the **Cancer Treatment Modalities** solution repository, fol
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](cancer_treatment_modalities.png)  <br>
+    ## Deliverables or Figures![additional_image](cancer_treatment_modalities.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
