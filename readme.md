@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Cancer Treatment Modalities - Analysis of major treatment modalities and the cancers (tumors type) they treat
 Analysis of major treatment modalities and the cancers (tumors type) they treat
 
@@ -9,8 +11,6 @@ Welcome to the solution **Cancer Treatment Modalities** - an example for your pr
 Analysis of major treatment modalities and the cancers (tumors type) they treat
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
