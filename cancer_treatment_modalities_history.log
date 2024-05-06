@@ -44,3 +44,17 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-05-06 01:04:38,423 - INFO - START cancer_treatment_modalities =============================================
+2024-05-06 01:04:38,423 - INFO - START cancer_treatment_modalities Start Time = 2024-05-06 01:04:38
+2024-05-06 01:04:38,424 - INFO - cancer_treatment_modalities Step 0 - Initialize the configuration file parser
+2024-05-06 01:04:38,424 - INFO - Process cancer_treatment_modalities Step 0 - Initializing and starting Logging Process.
+2024-05-06 01:04:40,059 - INFO - PERFORMANCE cancer_treatment_modalities The total process duration was:1.64
+2024-05-06 01:04:40,059 - INFO - PERFORMANCE cancer_treatment_modalities Stop Time = 2024-05-06 01:04:40
+2024-05-06 01:04:40,059 - INFO - PERFORMANCE cancer_treatment_modalities Short process duration less than 3 Seconds:1.64
+2024-05-06 01:04:40,059 - INFO - PERFORMANCE cancer_treatment_modalities Performance optimization is not reccomended
+2024-05-06 01:04:40,059 - INFO - END cancer_treatment_modalities =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
