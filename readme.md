@@ -31,6 +31,13 @@ Common **treatment protocols** for cancer patients typically involve a **multidi
 
 ![Image image_filename](sample.png)
 
+## Getting Started
+To get started with the **Cancer Treatment Modalities** solution repository, follow these steps:
+1. Clone the repository to your local machine.
+2. Install the required dependencies listed at the top of the notebook.
+3. Explore the example code provided in the repository and experiment.
+4. Run the notebook and make it your own - **EASY !**
+    
 ## Solution Features
 - Easy to understand and use  
 - Easily Configurable 
@@ -47,12 +54,8 @@ Common **treatment protocols** for cancer patients typically involve a **multidi
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Getting Started
-To get started with the **Cancer Treatment Modalities** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
+## Deliverables or Figures
+ ![additional_image](cancer_treatment_modalities.png)  <br>
     
 
 ## Github    
@@ -65,7 +68,4 @@ To get started with the **Cancer Treatment Modalities** solution repository, fol
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    
-## Deliverables or Figures
- ![additional_image](cancer_treatment_modalities.png)  <br>
     
