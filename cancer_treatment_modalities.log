@@ -1,11 +1,9 @@
-2024-04-07 14:08:03,804 - INFO - START cancer_treatment_modalities =============================================
-2024-04-07 14:08:03,804 - INFO - START cancer_treatment_modalities Start Time = 2024-04-07 14:08:03
-2024-04-07 14:08:03,804 - INFO - cancer_treatment_modalities Step 0 - Initialize the configuration file parser
-2024-04-07 14:08:03,805 - INFO - Process cancer_treatment_modalities Step 0 - Initializing and starting Logging Process.
-2024-04-07 14:08:03,912 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
-2024-04-07 14:08:03,913 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
-2024-04-07 14:09:39,457 - INFO - PERFORMANCE cancer_treatment_modalities The total process duration was:95.65
-2024-04-07 14:09:39,457 - INFO - PERFORMANCE cancer_treatment_modalities Stop Time = 2024-04-07 14:09:39
-2024-04-07 14:09:39,457 - INFO - PERFORMANCE cancer_treatment_modalities Low process duration less than 3 minutes:95.65
-2024-04-07 14:09:39,457 - INFO - PERFORMANCE cancer_treatment_modalities Performance optimization is optional
-2024-04-07 14:09:39,458 - INFO - END cancer_treatment_modalities =============================================
+2024-05-05 23:37:06,375 - INFO - START cancer_treatment_modalities =============================================
+2024-05-05 23:37:06,375 - INFO - START cancer_treatment_modalities Start Time = 2024-05-05 23:37:06
+2024-05-05 23:37:06,376 - INFO - cancer_treatment_modalities Step 0 - Initialize the configuration file parser
+2024-05-05 23:37:06,376 - INFO - Process cancer_treatment_modalities Step 0 - Initializing and starting Logging Process.
+2024-05-05 23:37:08,524 - INFO - PERFORMANCE cancer_treatment_modalities The total process duration was:2.15
+2024-05-05 23:37:08,525 - INFO - PERFORMANCE cancer_treatment_modalities Stop Time = 2024-05-05 23:37:08
+2024-05-05 23:37:08,525 - INFO - PERFORMANCE cancer_treatment_modalities Short process duration less than 3 Seconds:2.15
+2024-05-05 23:37:08,525 - INFO - PERFORMANCE cancer_treatment_modalities Performance optimization is not reccomended
+2024-05-05 23:37:08,525 - INFO - END cancer_treatment_modalities =============================================
