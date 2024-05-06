@@ -9,13 +9,16 @@ Analysis of major treatment modalities and the cancers (tumors type) they treat
 Common **treatment protocols** for cancer patients typically involve a **multidisciplinary approach** tailored to the type and stage of cancer. These protocols commonly include surgery, chemotherapy, radiation therapy, immunotherapy, targeted therapy, and hormone therapy.  Combinations of these modalities are often employed to maximize effectiveness. For example, patients may undergo surgery followed by chemotherapy and radiation to eradicate remaining cancer cells and reduce the risk of recurrence. Additionally, immunotherapy and targeted therapy may be used in conjunction with traditional treatments to enhance their efficacy, particularly in advanced or metastatic cancers. The goal of combining these modalities is to achieve better outcomes by targeting cancer cells through multiple mechanisms while minimizing side effects.
 
 **Neo-adjuvant** protocols are changing cancer care by allowing for treatment before primary therapy, potentially reducing tumor size and increasing the success of subsequent interventions. **Adjuvant therapy** complements primary treatments by targeting any remaining cancer cells, reducing the risk of recurrence, and improving long-term outcomes. Together, these protocols enhance the effectiveness of cancer treatment strategies and contribute to improved patient survival and quality of life.
-## solution_approach ## Analysis approach for multi-modal cancer treatment 
+
+ ## Analysis approach for multi-modal cancer treatment 
  1. **Identify Major Treatment Modalities** - Identify and categorize the major treatment modalities used in cancer treatment. 
   2. **Understand Cancer Types and Tumor Characteristics** - Gain a comprehensive understanding of the different types of cancer and the characteristics of tumors they represent. 
   3. **Match Treatment Modalities to Cancer Types** - Analyze which treatment modalities are most effective for specific cancer types and tumor characteristics. 
   4. **Evaluate Efficacy and Side Effects** - Assess the efficacy and potential side effects of each treatment modality in the context of specific cancer types. 
   5. **Develop Treatment Plans and Multidisciplinary Approaches** - Develop comprehensive treatment plans tailored to individual patients and consider the use of multidisciplinary approaches. 
- <br>## solution_list ## Cancer Treatment Modalities 
+ <br>
+
+ ## Cancer Treatment Modalities 
  1. **Surgery** - Surgical removal of cancerous tumors or tissues. 
   2. **Chemotherapy** - Treatment using drugs to kill cancer cells or slow their growth. 
   3. **NeoAdjuvant Chemotherapy** - Neoadjuvant systemic therapy is treatment given before surgery to shrink a large tumor and/or reduce the risk of recurrence. Chemotherapy, immunotherapy, hormonal therapy, and/or targeted therapy may all be given as neoadjuvant treatments for people with certain types cancer. 
@@ -25,6 +28,7 @@ Common **treatment protocols** for cancer patients typically involve a **multidi
   7. **Targeted Therapy** - Targeted therapy is a treatment that targets the cancer’s specific genes, proteins, or the tissue environment that contributes to cancer growth and survival.  
   8. **Hormone Therapy** - Treatment that blocks the effects of hormones or stops the body from making them. 
  <br>
+
 ![Image image_filename](sample.png)
 
 ## Solution Features
