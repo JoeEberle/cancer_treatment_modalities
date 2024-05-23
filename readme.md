@@ -56,7 +56,7 @@ To get started with the **Cancer Treatment Modalities** solution repository, fol
 - **Secure** - All the sample solutions are secure and use synthetic data, ensuring they contain no sensitive data or information.
     
 ## Deliverables or Figures
- ![additional_image](cancer_treatment_modalities.png)  <br>![additional_image](cancer_treatment_modalities_II.png)  <br>
+ ![additional_image](cancer_treatment_modalities.png)  <br>![additional_image](cancer_treatment_modalities_II.png)  <br>![additional_image](Janet.png)  <br>
     
 
 ## Github    
